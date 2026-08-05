@@ -1,4 +1,5 @@
-![I am a CSE Student | Cybersecurity Enthusiast](https://media.licdn.com/dms/image/v2/D5603AQGXey9Bk1cysQ/profile-displayphoto-scale_400_400/B56ZokPGQ1HAAg-/0/1761544529666?e=1782950400&v=beta&t=-y1K7hjnRjud8oEEgAQRQg7lIbclKxKtXKibn6q7KUA)
+![I am a CSE Student | Cybersecurity Enthusiast](<img width="977" height="1185" alt="WhatsApp Image 2026-08-04 at 10 53 56 AM" src="https://github.com/user-attachments/assets/0214cb31-99e5-4d70-9cae-926e29fa60fd" />
+)
 
 ### Hi there 👋, my name is Sumiaya Afrin
 #### I am a CSE Student | Cybersecurity Enthusiast
