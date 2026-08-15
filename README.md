@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:0f172a,50:164e63,100:7c3aed&text=SUMIAYA%20AFRIN&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Cybersecurity%20%E2%80%A2%20Python%20%E2%80%A2%20Secure%20Software%20Engineering&descAlignY=62&descSize=16"
+    src="https://capsule-render.vercel.app/api?type=venom&height=210&color=0:0F172A,50:164E63,100:6D28D9&text=SUMIAYA%20AFRIN&fontColor=FFFFFF&fontSize=44&fontAlignY=42&desc=Cybersecurity%20%7C%20Python%20%7C%20Secure%20Software%20Engineering&descSize=16&descAlignY=64"
     width="100%"
     alt="Sumiaya Afrin"
   />
@@ -9,7 +9,7 @@
 <p align="center">
   <img
     src="https://avatars.githubusercontent.com/u/229874870?v=4"
-    width="150"
+    width="145"
     alt="Sumiaya Afrin"
   />
 </p>
@@ -17,269 +17,203 @@
 <h2 align="center">Sumiaya Afrin</h2>
 
 <p align="center">
-  <b>CSE Student | Cybersecurity Enthusiast | Python Learner</b>
+  <strong>Computer Science & Engineering Student</strong><br>
+  Cybersecurity • Python • Network Security • Secure Software Development
 </p>
 
 <p align="center">
-  Interested in cybersecurity, secure software development, vulnerability analysis, networking, and practical problem-solving.
+  Building strong technical foundations while exploring how software, networks,
+  and security come together in real-world systems.
 </p>
 
 <p align="center">
-
-<a href="https://www.linkedin.com/in/sumiayaafrin/">
-  <img
-    src="https://img.shields.io/badge/LinkedIn-Sumiaya%20Afrin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-    alt="LinkedIn"
-  />
-</a>
-
-<a href="mailto:srabonis181@gmail.com">
-  <img
-    src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-    alt="Email"
-  />
-</a>
-
-<a href="https://github.com/srabonis181-hue">
-  <img
-    src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"
-    alt="GitHub"
-  />
-</a>
-
+  <a href="https://www.linkedin.com/in/sumiayaafrin/">
+    <img src="https://img.shields.io/badge/LinkedIn-Sumiaya%20Afrin-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:srabonis181@gmail.com">
+    <img src="https://img.shields.io/badge/Email-srabonis181%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/srabonis181-hue">
+    <img src="https://img.shields.io/badge/GitHub-srabonis181--hue-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
 
 ---
 
-## About Me
+## Professional Profile
 
-I'm a **Computer Science & Engineering student** with a growing interest in **Cybersecurity, Python, Network Security, and Secure Software Engineering**.
+I am a **Computer Science & Engineering student** developing my skills across **Cybersecurity, Python programming, Network Security, and Secure Software Engineering**.
 
-I enjoy learning how systems work, understanding where vulnerabilities can appear, and exploring how software can be designed more securely.
+My learning is focused on understanding systems beyond the surface — how applications communicate, how authentication works, where vulnerabilities can emerge, and how security principles can be integrated into software from the beginning.
 
-My current focus is on building strong fundamentals while gaining practical experience through projects, programming, and continuous self-learning.
-
-> **My goal is not just to use technology, but to understand it well enough to build and secure it responsibly.**
+Through academic work, independent learning, and practical projects, I am continuously strengthening my technical foundation with the goal of growing into a capable cybersecurity and software engineering professional.
 
 ---
 
-## Areas of Interest
+## Core Competencies
 
-🔐 **Cybersecurity**
+<p>
 
-* Security Fundamentals
-* Ethical Hacking
-* Vulnerability Analysis
-* Authentication & Access Control
-* Cyber Awareness
+<img src="https://img.shields.io/badge/Cybersecurity-Fundamentals-0F172A?style=for-the-badge" alt="Cybersecurity Fundamentals"/>
+<img src="https://img.shields.io/badge/Network-Security-164E63?style=for-the-badge" alt="Network Security"/>
+<img src="https://img.shields.io/badge/Secure-Software-6D28D9?style=for-the-badge" alt="Secure Software"/>
+<img src="https://img.shields.io/badge/Python-Programming-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Vulnerability-Analysis-334155?style=for-the-badge" alt="Vulnerability Analysis"/>
 
-🌐 **Network Security**
+</p>
 
-* TCP/IP
-* DNS
-* HTTP / HTTPS
-* Network Communication
-* Protocol Fundamentals
+**Security**
+- Cybersecurity Fundamentals
+- Ethical Hacking Concepts
+- Vulnerability Analysis
+- Authentication & Access Control
+- Secure Coding Principles
+- Security Awareness
 
-🐍 **Python & Automation**
+**Networking**
+- TCP/IP Fundamentals
+- DNS
+- HTTP / HTTPS
+- Network Communication
+- Protocol Fundamentals
+- Network Security Concepts
 
-* Python Programming
-* Problem Solving
-* Automation
-* Object-Oriented Programming
-* Security-focused scripting
-
-💻 **Software Development**
-
-* HTML
-* CSS
-* C
-* C++
-* Data Structures & Algorithms
-* Secure Coding Concepts
+**Programming & Development**
+- Python
+- C
+- C++
+- HTML
+- CSS
+- Object-Oriented Programming
+- Data Structures & Algorithms
 
 ---
 
-## Technical Skills
+## Technology Stack
 
 <p align="center">
   <img
     src="https://skillicons.dev/icons?i=python,c,cpp,html,css,git,github,vscode,linux&theme=dark"
-    alt="Technical Skills"
+    alt="Technology Stack"
   />
 </p>
 
-<p align="center">
+---
 
-<img
-src="https://img.shields.io/badge/Cybersecurity-Fundamentals-0F172A?style=flat-square"
-alt="Cybersecurity Fundamentals"
-/>
+## Selected Projects
 
-<img
-src="https://img.shields.io/badge/Network-Security-164E63?style=flat-square"
-alt="Network Security"
-/>
+### Secure WiFi Authentication — DFA
 
-<img
-src="https://img.shields.io/badge/Secure-Coding-7C3AED?style=flat-square"
-alt="Secure Coding"
-/>
+A Python desktop application that demonstrates a WiFi authentication workflow using **Deterministic Finite Automata**.
 
-<img
-src="https://img.shields.io/badge/Python-Programming-3776AB?style=flat-square&logo=python&logoColor=white"
-alt="Python"
-/>
+**Focus:** Python • Tkinter • Authentication • DFA
 
-</p>
+The project helped connect theoretical computer science concepts with practical authentication and security-oriented application design.
+
+[View Project](https://github.com/srabonis181-hue/secure-wifi-authentication-dfa)
 
 ---
 
-## Featured Projects
+### Smart Grocery Store Web Application
 
-### 🔐 Secure WiFi Authentication — DFA
+A software project developed to apply programming logic, application structure, and practical web-development concepts in a real-world scenario.
 
-A Python desktop application that demonstrates a secure WiFi authentication workflow using **Deterministic Finite Automata** concepts.
+**Focus:** Web Development • Application Logic • Software Design
 
-**Technologies:**
-`Python` `Tkinter` `DFA` `Authentication`
+The project strengthened my understanding of translating software requirements into a structured working application.
 
-**Key Learning:**
-Connecting theoretical computer science concepts with practical authentication and security workflows.
-
-[View Repository](https://github.com/srabonis181-hue/secure-wifi-authentication-dfa)
+[View Project](https://github.com/srabonis181-hue/Smart-Grocery-Store-Web-App)
 
 ---
 
-### 🛒 Smart Grocery Store Web App
+### FlightBooker
 
-A web-based application created to practice software development, application logic, and real-world system design.
+A flight-booking application designed around practical booking workflows and user interaction.
 
-**Focus Areas:**
-`Web Development` `Programming Logic` `Application Design`
+**Focus:** Web Application • User Workflow • Problem Solving
 
-**Key Learning:**
-Turning programming concepts into a structured and usable application.
+The project provided hands-on experience with structuring an application around a real-world use case.
 
-[View Repository](https://github.com/srabonis181-hue/Smart-Grocery-Store-Web-App)
+[View Project](https://github.com/srabonis181-hue/FlightBooker)
 
 ---
 
-### ✈️ FlightBooker
+## Current Focus
 
-A flight-booking application project focused on building practical booking workflows and improving web-development skills.
+I am currently strengthening my knowledge in:
 
-**Focus Areas:**
-`Web Application` `User Workflow` `Problem Solving`
+- Network Security
+- Cybersecurity Fundamentals
+- Python for Security & Automation
+- Ethical Hacking Concepts
+- Secure Coding
+- Linux
+- Vulnerability Analysis
 
-**Key Learning:**
-Designing and implementing a practical application around a real-world scenario.
-
-[View Repository](https://github.com/srabonis181-hue/FlightBooker)
-
----
-
-## Currently Learning
-
-```text
-Cybersecurity Fundamentals    ███████░░░
-Python Programming            ███████░░░
-Network Security              ██████░░░░
-Ethical Hacking               █████░░░░░
-Secure Coding                 █████░░░░░
-Linux                         ██████░░░░
-```
-
-My priority is to develop a strong foundation first and gradually move toward more advanced cybersecurity concepts and practical security work.
+My priority is to build **strong fundamentals first**, then move toward more advanced security concepts and hands-on security work.
 
 ---
 
-## Learning Approach
+## How I Approach Learning
 
-I believe cybersecurity becomes much easier to understand when the fundamentals are clear.
+I believe effective cybersecurity learning starts with understanding the system itself.
 
-Instead of only asking:
+Rather than only asking:
 
-**“Which tool should I use?”**
+> **Which security tool should I use?**
 
 I try to understand:
 
-* How does the system work?
-* What does it trust?
-* Where could that trust fail?
-* How can the weakness be reduced?
-* How would a defender recognize the problem?
+**How does the system work?**  
+**What does it trust?**  
+**What happens when that trust is abused?**  
+**Where can a weakness appear?**  
+**How can the system be made more resilient?**
 
-That mindset helps me connect programming, networking, and cybersecurity together.
-
----
-
-## Current Direction
-
-```text
-Learn Fundamentals
-       ↓
-Practice Concepts
-       ↓
-Build Projects
-       ↓
-Test & Analyze
-       ↓
-Find Weaknesses
-       ↓
-Improve
-       ↓
-Repeat
-```
-
-My long-term goal is to continue developing practical skills in **Cybersecurity, Network Security, Python, and Secure Software Development**.
+This approach helps me connect **programming, networking, software engineering, and cybersecurity** instead of learning them as completely separate subjects.
 
 ---
 
-## Connect With Me
+## Career Direction
+
+My long-term goal is to continue developing practical skills in:
+
+**Cybersecurity • Network Security • Secure Software Engineering • Python Automation**
+
+I am especially interested in opportunities that allow me to learn through real systems, practical projects, collaborative environments, and continuous technical growth.
+
+---
+
+## Connect
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/sumiayaafrin/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 
-<a href="https://www.linkedin.com/in/sumiayaafrin/">
-  <img
-    src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-    alt="LinkedIn"
-  />
-</a>
+  <a href="mailto:srabonis181@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 
-<a href="mailto:srabonis181@gmail.com">
-  <img
-    src="https://img.shields.io/badge/Gmail-srabonis181%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-    alt="Gmail"
-  />
-</a>
-
-<a href="https://github.com/srabonis181-hue">
-  <img
-    src="https://img.shields.io/badge/GitHub-srabonis181--hue-181717?style=for-the-badge&logo=github&logoColor=white"
-    alt="GitHub"
-  />
-</a>
-
+  <a href="https://github.com/srabonis181-hue">
+    <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
 
 <p align="center">
-  Open to connecting with students, developers, cybersecurity learners, and professionals who enjoy learning and sharing knowledge.
+  Open to connecting with students, developers, cybersecurity learners,
+  researchers, and professionals interested in technology and security.
 </p>
 
 ---
 
-<h3 align="center">
-  Learn • Build • Analyze • Secure
-</h3>
-
 <p align="center">
-  <b>Building stronger foundations, one concept at a time.</b>
+  <strong>Learn with purpose • Build with care • Think with security in mind</strong>
 </p>
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:7c3aed,45:164e63,100:0f172a&section=footer"
+    src="https://capsule-render.vercel.app/api?type=waving&height=105&color=0:6D28D9,50:164E63,100:0F172A&section=footer"
     width="100%"
     alt="Footer"
   />
